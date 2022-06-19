@@ -1,0 +1,6 @@
+= Teilaufgabe 2 von 12 - Erzeugungsmusterbeispiel
+
+*To-Do-Liste*
+
+* Erzeugungsmuster durchlesen
+* Verschiedene Beispiele durcharbeiten

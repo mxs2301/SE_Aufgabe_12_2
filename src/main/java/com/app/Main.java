@@ -6,8 +6,6 @@ public class Main{
 		
 		AnimalBreeder Max = new AnimalBreeder();
 
-		Max.getAnimal("Tiger");
-
 		Animal party = Max.getAnimal("Tiger");
 
 		party.roar();
